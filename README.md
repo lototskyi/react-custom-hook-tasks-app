@@ -1,2 +1,2 @@
 # react-users-class-based
-a ReactJS project to learn class based components, lifecycle methods, context and error boundary
+a ReactJS project to learn how to make a custom hook (in this case an http request hook)
